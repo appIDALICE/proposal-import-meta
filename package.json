@@ -11,7 +11,7 @@
     "watch": "ecmarkup --watch spec.html out/index.html --js out/ecmarkup.js --css out/ecmarkup.css"
   },
   "devDependencies": {
-    "ecmarkup": "^3.11.2",
+    "ecmarkup": "^16.0.0",
     "mkdirp": "^1.0.4"
   }
 }
